@@ -5,7 +5,7 @@ IT student at Kisii University
 Learning Java and SpringBoot
 Interested in Backend development
 
-## SKills
+## Skills
 Java
 MySQL
 HTML & CSS
