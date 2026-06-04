@@ -5,14 +5,14 @@ IT student at Kisii University
 Learning Java and SpringBoot
 Interested in Backend development
 
-## Skills
+## Tech Stack
 Java
 MySQL
 HTML & CSS
 GitHub
 
 ## Current Goals
-Mastering java
+Mastering OOP | Java |
 learn SpringBoot
 Build backend projects
 
